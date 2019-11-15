@@ -1,2 +1,13 @@
-"# handyman"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/BKertesz/handyman.git git push -u origin master
-"# handyman" 
+# HandyMan Python Cli
+
+## About
+A generic  framework the write, extend and use python scripts in a cli framework. Still in WIP.
+
+## Usage
+Use with `python` or `py` by:
+```
+python main.py
+```
+
+## Support
+For now this program is in WIP status. Any issue can be reported in issue section.
